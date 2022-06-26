@@ -1,0 +1,31 @@
+body {
+  text-align:center;
+background: linear-gradient( #FF878F 0%,#FFD5F1 100%);
+  background-repeat:no-repeat;
+}
+
+#profile{
+font-family: 'Dancing Script', cursive;
+  font-size:100px;
+}
+
+#Nezuko {
+  border-radius:50%;
+  width:500px;
+  border-style:dashed;
+}
+body {
+  text-align:center;
+  padding:20px;
+}
+h1{
+  text-shadow:2px 2px #F8BBD0;
+  font-size:60px;
+}
+
+#bio {
+  padding:20px;
+    font-size:30px;
+  font-family: 'Caveat', cursive;
+  text-align:center;
+    text-shadow:2px 2px #EDA0FF;
